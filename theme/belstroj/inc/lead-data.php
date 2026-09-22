@@ -16,7 +16,6 @@ return array(
 	'omdomen_lista'  => array(
 		array( 'Jag vill tacka detta företag från djupet av mitt hjärta. Jag har aldrig känt mig så bra i ett företag. Vackra minnen, jag kommer aldrig att glömma. Stort tack även till Audrius Zickus. Med stor respekt Adrian Greculean', 'Adrian Serjantu', 'för ett år sedan' ),
 	),
-	'bild_hero'      => 'foto-1.jpg',
-	'bilder'         => array( 'foto-2.jpg', 'foto-3.jpg', 'foto-4.jpg' ),
+	'bild_hero'      => 'foto-4.jpg',
 	'ar_riktig'      => true,
 );
