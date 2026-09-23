@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Belstroj AB',
+	'bransch'        => 'Byggföretag',
 	'telefon'        => '08-583 500 40',
 	'telefon_tel'    => '+46858350040',
 	'ort'            => 'Stocksund',
